@@ -1,6 +1,6 @@
 # Heroes of The Land Game Analysis
 
-![intro](images/loh_pic.jpg)
+![intro](images/0_loh_pic.jpg)
 
 ## Project Scope:
 Using Python and Pandas library, I did an analysis on the gaming data collected by the company using Jupyter Notebook. There's an analysis on quantity and quality aspect of the players, game purchases, gender demographics, game purchases based on gender, age demographics, purchasing patterns based on age, top spenders, profitable items, and popular items.
