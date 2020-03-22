@@ -1,5 +1,7 @@
 # Heroes of The Land Game Analysis
 
+![intro](images/loh_pic.jpg)
+
 ## Project Scope:
 Using Python and Pandas library, I did an analysis on the gaming data collected by the company using Jupyter Notebook. There's an analysis on quantity and quality aspect of the players, game purchases, gender demographics, game purchases based on gender, age demographics, purchasing patterns based on age, top spenders, profitable items, and popular items.
 
@@ -9,77 +11,34 @@ Using Python and Pandas library, I did an analysis on the gaming data collected 
 * Pandas
 * Jupyter Notebook
 
-```
-Give examples
-```
-
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The easiest way to review my analysis is to simply click on the "pandas_game_data_analysis.ipynb" in my repository on the GitHub website. GitHub is able to read Jupyter Notebook. Otherwise, if you want to download the repository, you will need to have Jupyter Notebook installed on your computer and clone / download the repository cloned to your computer.
 
+## Summary of Findings
+* Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
+* Our peak age demographic falls between 20-24 (44.8%) with secondary groups falling between 15-19 (18.60%) and 25-29 (13.4%).
 
+* The game is averaging about 1.35 transaction per unique player. Not all player makes purchases in the game.
+* Male players made up 85% of their purchases for a total of 1,967, averaging about 4.07 per player.
+* About %75 of  their players are between the ages of 15 to 29, with 45% of them being in the age group of 20 – 24.
+* Players in the age group of 20 -24 had the highest purchase count (365) and spent on average of 4.32.
+* Conversely, the lowest number of transactions and spend came both age groups of 35 to 39, and 40, where both groups had     13 transactions with an average of 3.20.
+* Their top spenders spent between 13.10 to 18.96, with minimum of 3 to max 5 purchase counts.
+* Their most profitable item was “Oathbreaker, Last Hope of the Breaking Storm” for a total of 12 purchases with a total     revenue of 50.76.
 
-### Installing
+## Output
+![1](images/1_hol_high_summary.jpg)
+![2](images/2_gender_percent_pop.jpg)
+![3](images/3_hol_gender_sum.jpg)
+![4](images/4_players_agegroup.jpg)
+![5](images/5_agegroup_profit.jpg)
+![6](images/6_top5_players_purch.jpg)
+![7](images/7_top5_gamingitem_purch.jpg)
 
-A step by step series of examples that tell you how to get a development env running
+## Author
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Johneson Giang** - *Individual Project* - [Github](https://github.com/jhustles)
 
 ## License
 
